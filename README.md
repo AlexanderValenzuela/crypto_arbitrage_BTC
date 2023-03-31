@@ -1,1 +1,1 @@
-# crypto_arbitrage_BTC
+# crypto_arbitrage_trading
