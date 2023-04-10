@@ -10,7 +10,7 @@ This project leverages Pandas with the following libraries:
 
 ---
 ## Installation 
-[Jupyter Lab and Jupyter Notebook](jupyter.org/install)
+[Jupyter Lab and Jupyter Notebook](https://jupyter.org/install)
 
 [JupyterLab - Getting Started](https://jupyterlab.readthedocs.io/en/stable/getting_started/starting.html)
 
